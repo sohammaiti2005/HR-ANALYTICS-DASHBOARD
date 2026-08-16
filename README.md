@@ -33,4 +33,6 @@ Sales specifically, rather than broad, company-wide interventions.
 - `screenshots/` — dashboard preview images
 
 ## Dashboard Preview
-(Screenshot 2026-08-16 192508.png)
+(<img width="1197" height="672" alt="Screenshot 2026-08-16 192508" src="https://github.com/user-attachments/assets/b25130f5-92c1-4f63-8f43-cb45a2f4c22a" />
+
+
