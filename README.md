@@ -4,9 +4,9 @@ Analysis of employee attrition drivers using Excel and Power BI, aimed at identi
 where the business is losing people and why — to support HR retention decisions.
 
 ## Tools Used
-- **Excel** — data validation and formula-driven summary analysis (COUNTIFS, SUMIFS)
-- **Power BI** — interactive dashboard with DAX measures
-- **DAX** — custom measures for Attrition Rate, headcount, and averages
+- **Excel** — data validation and formula-driven summary analysis (COUNTIFS, SUMIFS).
+- **Power BI** — interactive dashboard with DAX measures.
+- **DAX** — custom measures for Attrition Rate, headcount, and averages.
 
 ## Dataset
 1,480 employee records with 37 attributes: department, job role, overtime status,
