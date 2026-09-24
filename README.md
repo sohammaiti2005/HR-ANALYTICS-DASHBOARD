@@ -10,7 +10,7 @@ where the business is losing people and why — to support HR retention decision
 
 ## Dataset
 1,480 employee records with 37 attributes: department, job role, overtime status,
-job satisfaction, work-life balance, income, tenure, and more.
+job satisfaction, work-life balance, income, tenure,and more.
 
 ## Key Insights
 - Overall attrition rate: **16.3%** (241 of 1,480 employees)
