@@ -6,7 +6,7 @@ where the business is losing people and why — to support HR retention decision
 ## Tools Used
 - **Excel** — data validation and formula-driven summary analysis (COUNTIFS, SUMIFS).
 - **Power BI** — interactive dashboard with DAX measures.
-- **DAX** — custom measures for Attrition Rate , headcount, and averages.
+- **DAX** — custom measures for Attrition Rate, headcount, and averages.
 
 ## Dataset
 1,480 employee records with 37 attributes: department, job role, overtime status,
